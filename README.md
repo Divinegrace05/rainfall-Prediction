@@ -1,5 +1,5 @@
 #  UTILIZING DATA SCIENCE TO FORECAST RAIN
-![rain.jpg](attachment:rain.jpg)
+![rain](https://github.com/user-attachments/assets/24c3cbd9-ceb9-4d10-9d4d-4772c7af5b3e)
 
 ## Overview
 This project revolvs around leveraging historical weather data to forecast conditions in Nairobi. Key aspects include data preprocessing, encompassing cleaning and feature engineering, to enhance the dataset's quality. Various machine learning algorithms were applied to build a robust predictive model, focusing on rain prediction. Evaluation metrics and validation techniques ensured model effectiveness, helping those sectors which were most dependent on weather, such as agriculture.
