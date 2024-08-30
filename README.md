@@ -1,3 +1,5 @@
+![Presentation](https://www.canva.com/design/DAGPVDu8tuw/GZX7eoQP55a6FqQKJc3Jjg/edit?utm_content=DAGPVDu8tuw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 #  UTILIZING DATA SCIENCE TO FORECAST RAIN
 ![rain](https://github.com/user-attachments/assets/24c3cbd9-ceb9-4d10-9d4d-4772c7af5b3e)
 
