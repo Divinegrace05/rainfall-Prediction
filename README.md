@@ -32,10 +32,7 @@ The project utilized three primary models:
 
 Feature engineering and preprocessing were applied to the dataset, followed by training the models. Each model's performance was evaluated using accuracy, precision, recall, and F1-score.
 
-## Evaluation
-XGBoost emerged as the best-performing model, with superior accuracy and balanced computation time. Random Forest also performed well but showed signs of overfitting. Logistic Regression provided a good balance between accuracy and speed.
-
-## Conclusion
+## Evaluation and Conclusion
 
 Among the models tested, XGBoost outperformed others in terms of accuracy, precision, recall, and F1-score, making it the most effective model for predicting rainfall in this context. Random Forest also showed strong performance but exhibited some overfitting, as indicated by the high training accuracy and slightly lower testing accuracy. Logistic Regression, while less complex, provided a good balance between computation time and accuracy.
 
